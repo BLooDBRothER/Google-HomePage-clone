@@ -5,3 +5,8 @@ footer_setting.addEventListener("click", (e) => {
     e.preventDefault();
     setting_cnt.classList.toggle("none");
 })
+
+window.addEventListener("mousedown", (e) =>{
+    if(setting_cnt.classList.contains("none")) return; 
+    setting_cnt.classList.add("none");
+});
