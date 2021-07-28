@@ -48,6 +48,14 @@ header{
     width: 24px;
     height: 24px;
     cursor: pointer;
+    padding: .5rem;
+    margin: 0;
+    box-sizing: unset;
+    border-radius: 50%;
+}
+
+.grid-menu:hover{
+    background-color: rgba(60,64,67,0.08);
 }
 
 .account-logo{
