@@ -1,2 +1,7 @@
 # Google-HomePage-clone
-Clone of Google home page
+
+### Project @ [The Odin Project](theodinproject.com)
+
+### Google's Home Page clone - [Click here to see](top-glhome.netlify.app)
+
+
